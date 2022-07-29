@@ -1,0 +1,17 @@
+.gambar {
+  width: auto;
+  height: 90px;
+}
+
+.table > tbody > tr > td {
+  vertical-align: middle;
+  /* text-align: center; */
+}
+
+/* ul.nav-aktif li a.active {
+  color: blue;
+} */
+
+.ini {
+  transition: all 0.5s;
+}
